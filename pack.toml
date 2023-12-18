@@ -1,0 +1,13 @@
+name = "Minecraft Packwiz Modpack"
+author = "Jim"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dc5d885437923385994c044bd7a50f75d01a22367501fae0ec56dec92ff76d4c"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.4"
