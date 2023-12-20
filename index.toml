@@ -5,6 +5,11 @@ file = "README.md"
 hash = "d87300ac83d395d2fbc569e0bb170733612a0043158f6b2d8c476a1630c5ae04"
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ab60349289cadb218ec0e62c45c15d0da6a02aac92011cdd676312fc69009b69"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
