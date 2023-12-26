@@ -1,12 +1,12 @@
-name = "Minecraft Packwiz Modpack"
-author = "Jim"
+name = "Twilight of Asgard"
+author = "Jim9222"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "08752e6153c2a5027c04300e34b0c0b9bb7c1103c9e4f2a9f3e819dcfc075482"
+hash = "9567783d630936b76e50b34c85d3100bfca060702bd17c44887a0d7f6d3a40a9"
 
 [versions]
 fabric = "0.15.3"
