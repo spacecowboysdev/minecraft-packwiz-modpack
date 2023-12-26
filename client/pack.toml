@@ -1,0 +1,13 @@
+name = "Saga of the Sunless Sky"
+author = "Jim9222"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "00060c64f43fbd3bb761afc9fc3419a298aae2dcb51fd013710ae40eb47284bf"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.4"
