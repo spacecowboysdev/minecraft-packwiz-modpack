@@ -2,30 +2,30 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ab60349289cadb218ec0e62c45c15d0da6a02aac92011cdd676312fc69009b69"
+hash = "1dea1472741762757eed29f76877f5913b0e445aa5e91a43ec9dcab63149e190"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "fb9771386e9a1f956568a9d1bab1c9332d7191d8d27f1a966d071fdbdef1a6c4"
+hash = "488021bb6eeb9d43b2da73cf9fb1256472c25c8451849d2dd3e08332395353ff"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "783fe7d40a9e8e14775ed458cedc7cfc5cd13a2d3d857792adfda77025d3f379"
+hash = "f6a053554df5a596e3113b7add27bd88c504ff50b8cb8083e8acdc2331a30bba"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
+hash = "2b9e4dbe7305540ed0bac103f8ba47a36307a3a194dda91b5886a2caf4712d0a"
 metafile = true
