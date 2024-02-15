@@ -1,1 +1,1 @@
-docker run -e EULA=TRUE -e TYPE=FABRIC -e "PACKWIZ_URL=https://raw.githubusercontent.com/spacecowboysdev/minecraft-packwiz-modpack/main/server/pack.toml" itzg/minecraft-server
+docker run -p 25565:25565 -e EULA=TRUE -e TYPE=FABRIC -e "PACKWIZ_URL=https://raw.githubusercontent.com/spacecowboysdev/minecraft-packwiz-modpack/main/server/pack.toml" itzg/minecraft-server
